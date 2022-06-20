@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
-# yito: Diff tool for archlinuxcn repo, used to show differences of PKGBUILDs
-# before upgrading the system.
+# yito
+#   Diff tool for archlinuxcn repo, used to show differences of PKGBUILDs
+#   before upgrading the system. Cache is stored in '~/.cache/yito', you can
+#   delete it safely.
 
 # Author: Cyrus Yip <https://github.com/CyrusYip>
 
